@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(136, 132, 132)
+}
+
+
+#searchterm{
+    height: 40px;
+    width: 300px;
+}
+#button1{
+    height: 45px;
+}
+/* .hidden{
+    display: none;
+} */
+/* .visable{
+
+} */
